@@ -69,4 +69,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 
 ## Contact
-For any inquiries, reach out via [siddhantborhade18.7@gmail.com,srushtiborkar365@gmail.com,borkarsrushti129@gmail.com].
+For any inquiries, reach out via [siddhantborhade18.7@gmail.com,srushtiborkar365@gmail.com].
